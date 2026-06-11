@@ -12,14 +12,6 @@ WaveMLP couples a **Learnable Complex Wavelet Transform (LCWT)** with a **lightw
 
 On the **ManySig** and **ManyRx** subsets of WiSig, WaveMLP attains **93.13%** and **88.68%** average accuracy, surpassing seven representative baselines by **12.18%** and **2.67%**, with one to two orders of magnitude fewer parameters or FLOPs.
 
-## Installation
-
-```bash
-git clone https://github.com/BeechburgPieStar/WaveMLP-RFF.git
-cd WaveMLP-RFF
-pip install -r requirements.txt
-```
-
 ## Dataset
 
 Experiments use the **WiSig** benchmark. Download it from the official source and place it under `./data/`:
