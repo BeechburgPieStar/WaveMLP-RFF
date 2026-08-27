@@ -55,12 +55,16 @@ CRD recognition accuracy (%), average over 4 cross-validation rounds.
 ## Citation
 
 ```bibtex
-@inproceedings{wang2026wavemlp,
-  title     = {WaveMLP: Cross-Receiver-Day RF Fingerprinting with Learnable Complex Wavelets},
-  author    = {Wang, Yu and Wang, Meiyu and Wang, Juzhen},
-  booktitle = {2026 International Conference on Intelligent Multimedia, Networking, and Security (IMNS)},
-  year      = {2026}
-}
+@INPROCEEDINGS{11655284,
+  author={Wang, Yu and Wang, Meiyu and Wang, Juzhen},
+  booktitle={2026 International Conference on Intelligent Multimedia, Networking, and Security (IMNS)}, 
+  title={WaveMLP: Cross-Receiver-Day RF Fingerprinting with Learnable Complex Wavelets}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-5},
+  keywords={Timing;Receivers;Fingerprint recognition;Filtering;Filters;Equations;Printing;Radio frequency;Transmitters;Learning (artificial intelligence);Radio frequency fingerprinting;crossreceiver-day;domain generalization;learnable complex wavelet transform},
+  doi={10.1109/IMNS67862.2026.11655284}}
 ```
 
 ## Acknowledgment
